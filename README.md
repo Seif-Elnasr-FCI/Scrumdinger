@@ -12,3 +12,9 @@ The detail screen shows more information about a scrum, including the name of ea
 ## Meeting timer
 The progress bar at the top of the meeting timer shows the elapsed and remaining time for the meeting. The app displays the name of the current speaker in the center of the screen and a button to advance to the next attendee at the bottom of the screen.
 Segments in a circular progress ring represent each attendee. When an attendee uses all their time, Scrumdinger plays a “ding” sound and adds a new segment to the ring. The meeting ends when the ring is full.
+
+## Video
+
+https://github.com/Seif-Elnasr-FCI/Scrumdinger/assets/68325899/54b67f2f-4a58-463f-a7de-32dd79c74551
+
+
